@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://i.imgur.com/tw07KOx.png);
+    background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/transistor%20gamepad.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 89px;
     height: 122px;
-    background: url(https://imgur.com/XhltNmN.png);
+    background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/trigger.png);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 171px;
     height: 63px;
-    background: url(https://imgur.com/5OTqMNu.png);
+    background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/bumper.png);
     opacity: 0;
 }
 
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://imgur.com/fWFKUP7.png);
+    background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://i.imgur.com/5IrC9H0.png);
+    background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -185,14 +185,14 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://imgur.com/mbeEeni.png);
+    background: url(unused);
     background-position: 0 0;
     height: 83px;
     width: 84px;
 }
 
 .sticks > .stick {
-  background-image: url(https://i.imgur.com/IbSPTWW.png);
+  background-image: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/sticks%20cyan%20and%20cherry.png);
 }
 
 .xbox .stick.pressed {
@@ -219,7 +219,7 @@
 }
 
 .xbox .face {
-    background: url(https://imgur.com/1Qkhzv7.png);
+    background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/dpad.png);
     position: absolute;
     opacity: 0;
 }
