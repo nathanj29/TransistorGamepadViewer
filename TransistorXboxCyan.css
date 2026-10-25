@@ -41,6 +41,7 @@
 .xbox .trigger.right {
     float: right;
     transform: rotateY(180deg);
+    left: 10px;
 }
 
 .xbox .bumper {
