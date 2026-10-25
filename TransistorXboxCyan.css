@@ -19,18 +19,18 @@
     display: none;
 }
 
-.xbox .triggers {
-    width: 448.5px;
-    height: 122px;
-    position: absolute;
-    left: 151px;
-}
-
 .xbox .trigger {
     width: 89px;
     height: 122px;
     background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/trigger.png);
     opacity: 0;
+}
+
+.xbox .triggers {
+    width: 448px;
+    height: 122px;
+    position: absolute;
+    left: 151px;
 }
 
 .xbox .trigger.left {
@@ -44,7 +44,7 @@
 }
 
 .xbox .bumper {
-    width: 175px;
+    width: 171px;
     height: 63px;
     background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/bumper.png);
     opacity: 0;
@@ -52,7 +52,7 @@
 
 .xbox .bumpers {
     position: absolute;
-    width: 536px;
+    width: 537px;
     height: 63px;
     left: 107px;
     top: 129px;
