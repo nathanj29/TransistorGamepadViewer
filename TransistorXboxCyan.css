@@ -20,10 +20,10 @@
 }
 
 .xbox .triggers {
-    width: 448px;
+    width: 450px;
     height: 121px;
     position: absolute;
-    left: 151px;
+    left: 150px;
 }
 
 .xbox .trigger {
@@ -41,7 +41,6 @@
 .xbox .trigger.right {
     float: right;
     transform: rotateY(180deg);
-    left: 10px;
 }
 
 .xbox .bumper {
