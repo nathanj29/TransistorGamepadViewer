@@ -20,7 +20,7 @@
 }
 
 .xbox .triggers {
-    width: 448px;
+    width: 448.5px;
     height: 122px;
     position: absolute;
     left: 151px;
@@ -44,7 +44,7 @@
 }
 
 .xbox .bumper {
-    width: 174px;
+    width: 175px;
     height: 63px;
     background: url(https://raw.githubusercontent.com/nathanj29/TransistorGamepadViewer/refs/heads/main/pictures/bumper.png);
     opacity: 0;
